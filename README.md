@@ -11,9 +11,6 @@
   
   ##
  
-<div> 
-  <a href = "mailto:icb2@ic.ufal.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
   ![Snake animation](https://github.com/IasminBorba/IasminBorba/blob/output/github-contribution-grid-snake.svg)
  
 </div>
