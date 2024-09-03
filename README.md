@@ -1,9 +1,11 @@
-## Olá! Eu sou Iasmin.
+## Olá!
+
 <div align="center">
-  <a href="https://github.com/IasminBorba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IasminBorba&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminBorba&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=IasminBorba&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminBorba&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IasminBorba&theme=dracula" height="200px">
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
