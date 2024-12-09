@@ -1,8 +1,8 @@
 # Hello there! I'm Iasmin Borba 👾
 
 <div align="center" >
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=IasminBorba&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminBorba&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=IasminBorba&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="171px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminBorba&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="171px">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IasminBorba&theme=dracula" height="215px">
 </div>
 
