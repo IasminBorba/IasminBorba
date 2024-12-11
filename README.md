@@ -33,6 +33,7 @@
   <a href="https://github.com/IasminBorba/bookmarks">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IasminBorba&repo=bookmarks&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px" />
   </a>
+  <span>&nbsp;</span>
   <a href="https://github.com/IasminBorba/projeto-md">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IasminBorba&repo=projeto-md&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px" />
   </a>
@@ -42,6 +43,7 @@
   <a href="https://github.com/IasminBorba/gravedigger-cat">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IasminBorba&repo=gravedigger-cat&cache_bust=1&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px" />
   </a>
+  <span>&nbsp;</span>
   <a href="https://github.com/IasminBorba/alinhamento-multiplo-dna">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IasminBorba&repo=alinhamento-multiplo-dna&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px" />
   </a>
