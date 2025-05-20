@@ -31,7 +31,7 @@
  
 <div align="center">
   <a href="https://github.com/IasminBorba/bookmarks-api">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IasminBorba&repo=bookmarks&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IasminBorba&repo=bookmarks-api&layout=compact&theme=dracula&hide=php,yacc&langs_count=6&hide_border=true" height="160px" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/IasminBorba/projeto-md">
